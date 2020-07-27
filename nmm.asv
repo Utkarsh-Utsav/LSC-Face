@@ -1,0 +1,1 @@
+tbl = tabulate(round(mated,1));
